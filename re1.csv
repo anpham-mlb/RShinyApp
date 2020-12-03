@@ -1,0 +1,151 @@
+"","Offense_charged","Race","Rate"
+"1","Murder and nonnegligent manslaughter","White",44.7
+"2","Rape","White",67.6
+"3","Robbery","White",43.4
+"4","Aggravated assault","White",62.8
+"5","Burglary","White",68.4
+"6","Larceny-theft","White",69
+"7","Motor vehicle theft","White",66
+"8","Arson","White",72
+"9","Violent crime","White",59
+"10","Property crime","White",68.7
+"11","Other assaults","White",65.2
+"12","Forgery and counterfeiting","White",65.5
+"13","Fraud","White",67
+"14","Embezzlement","White",61.4
+"15","Stolen property; buying, receiving, possessing","White",64.2
+"16","Vandalism","White",68.4
+"17","Weapons; carrying, possessing, etc.","White",55.9
+"18","Prostitution and commercialized vice","White",55.5
+"19","Sex offenses (except rape and prostitution)","White",71.6
+"20","Drug abuse violations","White",71
+"21","Gambling","White",45
+"22","Offenses against the family and children","White",67.1
+"23","Driving under the influence","White",82.2
+"24","Liquor laws","White",79.2
+"25","Drunkenness","White",76.5
+"26","Disorderly conduct","White",63.3
+"27","Vagrancy","White",66
+"28","All other offenses (except traffic)","White",69.2
+"29","Suspicion","White",35
+"30","Curfew and loitering law violations","White",56.3
+"31","Murder and nonnegligent manslaughter","Black_or_African_American",52.6
+"32","Rape","Black_or_African_American",29.1
+"33","Robbery","Black_or_African_American",54.5
+"34","Aggravated assault","Black_or_African_American",33.3
+"35","Burglary","Black_or_African_American",29.1
+"36","Larceny-theft","Black_or_African_American",27.7
+"37","Motor vehicle theft","Black_or_African_American",30.7
+"38","Arson","Black_or_African_American",23.3
+"39","Violent crime","Black_or_African_American",37.5
+"40","Property crime","Black_or_African_American",28.1
+"41","Other assaults","Black_or_African_American",31.4
+"42","Forgery and counterfeiting","Black_or_African_American",31.9
+"43","Fraud","Black_or_African_American",30.5
+"44","Embezzlement","Black_or_African_American",35.8
+"45","Stolen property; buying, receiving, possessing","Black_or_African_American",33.4
+"46","Vandalism","Black_or_African_American",28.1
+"47","Weapons; carrying, possessing, etc.","Black_or_African_American",41.8
+"48","Prostitution and commercialized vice","Black_or_African_American",37.9
+"49","Sex offenses (except rape and prostitution)","Black_or_African_American",24.7
+"50","Drug abuse violations","Black_or_African_American",26.7
+"51","Gambling","Black_or_African_American",48.4
+"52","Offenses against the family and children","Black_or_African_American",29.1
+"53","Driving under the influence","Black_or_African_American",13.6
+"54","Liquor laws","Black_or_African_American",14.5
+"55","Drunkenness","Black_or_African_American",14.7
+"56","Disorderly conduct","Black_or_African_American",32.2
+"57","Vagrancy","Black_or_African_American",30.7
+"58","All other offenses (except traffic)","Black_or_African_American",27.4
+"59","Suspicion","Black_or_African_American",30.7
+"60","Curfew and loitering law violations","Black_or_African_American",40.7
+"61","Murder and nonnegligent manslaughter","American_Indian_or_Alaska_Native",1.2
+"62","Rape","American_Indian_or_Alaska_Native",1.3
+"63","Robbery","American_Indian_or_Alaska_Native",0.9
+"64","Aggravated assault","American_Indian_or_Alaska_Native",2.1
+"65","Burglary","American_Indian_or_Alaska_Native",1
+"66","Larceny-theft","American_Indian_or_Alaska_Native",1.8
+"67","Motor vehicle theft","American_Indian_or_Alaska_Native",1.5
+"68","Arson","American_Indian_or_Alaska_Native",2.8
+"69","Violent crime","American_Indian_or_Alaska_Native",1.8
+"70","Property crime","American_Indian_or_Alaska_Native",1.7
+"71","Other assaults","American_Indian_or_Alaska_Native",1.8
+"72","Forgery and counterfeiting","American_Indian_or_Alaska_Native",0.6
+"73","Fraud","American_Indian_or_Alaska_Native",1.2
+"74","Embezzlement","American_Indian_or_Alaska_Native",0.8
+"75","Stolen property; buying, receiving, possessing","American_Indian_or_Alaska_Native",1.2
+"76","Vandalism","American_Indian_or_Alaska_Native",2.2
+"77","Weapons; carrying, possessing, etc.","American_Indian_or_Alaska_Native",0.9
+"78","Prostitution and commercialized vice","American_Indian_or_Alaska_Native",0.4
+"79","Sex offenses (except rape and prostitution)","American_Indian_or_Alaska_Native",1.6
+"80","Drug abuse violations","American_Indian_or_Alaska_Native",1
+"81","Gambling","American_Indian_or_Alaska_Native",0.3
+"82","Offenses against the family and children","American_Indian_or_Alaska_Native",3
+"83","Driving under the influence","American_Indian_or_Alaska_Native",1.8
+"84","Liquor laws","American_Indian_or_Alaska_Native",4.6
+"85","Drunkenness","American_Indian_or_Alaska_Native",7.7
+"86","Disorderly conduct","American_Indian_or_Alaska_Native",3.5
+"87","Vagrancy","American_Indian_or_Alaska_Native",2.1
+"88","All other offenses (except traffic)","American_Indian_or_Alaska_Native",2
+"89","Suspicion","American_Indian_or_Alaska_Native",32.5
+"90","Curfew and loitering law violations","American_Indian_or_Alaska_Native",1.6
+"91","Murder and nonnegligent manslaughter","Asian",1.2
+"92","Rape","Asian",1.7
+"93","Robbery","Asian",0.9
+"94","Aggravated assault","Asian",1.5
+"95","Burglary","Asian",1.2
+"96","Larceny-theft","Asian",1.2
+"97","Motor vehicle theft","Asian",1.3
+"98","Arson","Asian",1.5
+"99","Violent crime","Asian",1.4
+"100","Property crime","Asian",1.2
+"101","Other assaults","Asian",1.2
+"102","Forgery and counterfeiting","Asian",1.7
+"103","Fraud","Asian",1.1
+"104","Embezzlement","Asian",1.7
+"105","Stolen property; buying, receiving, possessing","Asian",1.1
+"106","Vandalism","Asian",1.1
+"107","Weapons; carrying, possessing, etc.","Asian",1.1
+"108","Prostitution and commercialized vice","Asian",6
+"109","Sex offenses (except rape and prostitution)","Asian",1.9
+"110","Drug abuse violations","Asian",1.1
+"111","Gambling","Asian",5.7
+"112","Offenses against the family and children","Asian",0.7
+"113","Driving under the influence","Asian",2
+"114","Liquor laws","Asian",1.5
+"115","Drunkenness","Asian",1
+"116","Disorderly conduct","Asian",0.8
+"117","Vagrancy","Asian",1.2
+"118","All other offenses (except traffic)","Asian",1
+"119","Suspicion","Asian",1.1
+"120","Curfew and loitering law violations","Asian",1.1
+"121","Murder and nonnegligent manslaughter","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"122","Rape","Native_Hawaiian_or_Other_Pacific_Islander",0.4
+"123","Robbery","Native_Hawaiian_or_Other_Pacific_Islander",0.4
+"124","Aggravated assault","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"125","Burglary","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"126","Larceny-theft","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"127","Motor vehicle theft","Native_Hawaiian_or_Other_Pacific_Islander",0.5
+"128","Arson","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"129","Violent crime","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"130","Property crime","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"131","Other assaults","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"132","Forgery and counterfeiting","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"133","Fraud","Native_Hawaiian_or_Other_Pacific_Islander",0.1
+"134","Embezzlement","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"135","Stolen property; buying, receiving, possessing","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"136","Vandalism","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"137","Weapons; carrying, possessing, etc.","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"138","Prostitution and commercialized vice","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"139","Sex offenses (except rape and prostitution)","Native_Hawaiian_or_Other_Pacific_Islander",0.3
+"140","Drug abuse violations","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"141","Gambling","Native_Hawaiian_or_Other_Pacific_Islander",0.6
+"142","Offenses against the family and children","Native_Hawaiian_or_Other_Pacific_Islander",0.1
+"143","Driving under the influence","Native_Hawaiian_or_Other_Pacific_Islander",0.4
+"144","Liquor laws","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"145","Drunkenness","Native_Hawaiian_or_Other_Pacific_Islander",0.1
+"146","Disorderly conduct","Native_Hawaiian_or_Other_Pacific_Islander",0.2
+"147","Vagrancy","Native_Hawaiian_or_Other_Pacific_Islander",0.1
+"148","All other offenses (except traffic)","Native_Hawaiian_or_Other_Pacific_Islander",0.4
+"149","Suspicion","Native_Hawaiian_or_Other_Pacific_Islander",0.7
+"150","Curfew and loitering law violations","Native_Hawaiian_or_Other_Pacific_Islander",0.3

@@ -1,0 +1,5 @@
+library(plotly)
+library(MASS)
+covmat <- matrix(c(0.8, 0.4, 0.3, 0.8), nrow = 2, byrow = T)
+df <- mvrnorm(n = 10000, c(0,0), Sigma = covmat)
+df <- as.data.frame(df)

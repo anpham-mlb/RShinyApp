@@ -1,0 +1,31 @@
+,Offense_charged,White,Black_or_African_American,American_Indian_or_Alaska_Native,Asian,Native_Hawaiian_or_Other_Pacific_Islander,Hispanic_or_Latino,Not_Hispanic_or_Latino
+1,Murder and nonnegligent manslaughter,44.7,52.6,1.2,1.2,0.3,20,80
+2,Rape,67.6,29.1,1.3,1.7,0.4,27,73
+3,Robbery,43.4,54.5,0.9,0.9,0.4,21.1,78.9
+4,Aggravated assault,62.8,33.3,2.1,1.5,0.3,24.4,75.6
+5,Burglary,68.4,29.1,1,1.2,0.3,20.8,79.2
+6,Larceny-theft,69,27.7,1.8,1.2,0.2,14.6,85.4
+7,Motor vehicle theft,66,30.7,1.5,1.3,0.5,26.8,73.2
+8,Arson,72,23.3,2.8,1.5,0.3,16.6,83.4
+9,Violent crime,59,37.5,1.8,1.4,0.3,23.8,76.2
+10,Property crime,68.7,28.1,1.7,1.2,0.3,16.4,83.6
+11,Other assaults,65.2,31.4,1.8,1.2,0.3,18.2,81.8
+12,Forgery and counterfeiting,65.5,31.9,0.6,1.7,0.2,15.9,84.1
+13,Fraud,67,30.5,1.2,1.1,0.1,11.5,88.5
+14,Embezzlement,61.4,35.8,0.8,1.7,0.3,12,88
+15,"Stolen property; buying, receiving, possessing",64.2,33.4,1.2,1.1,0.2,19.7,80.3
+16,Vandalism,68.4,28.1,2.2,1.1,0.3,18.5,81.5
+17,"Weapons; carrying, possessing, etc.",55.9,41.8,0.9,1.1,0.2,23.4,76.6
+18,Prostitution and commercialized vice,55.5,37.9,0.4,6,0.2,19.9,80.1
+19,Sex offenses (except rape and prostitution),71.6,24.7,1.6,1.9,0.3,25.1,74.9
+20,Drug abuse violations,71,26.7,1,1.1,0.2,20.3,79.7
+21,Gambling,45,48.4,0.3,5.7,0.6,25.6,74.4
+22,Offenses against the family and children,67.1,29.1,3,0.7,0.1,11.4,88.6
+23,Driving under the influence,82.2,13.6,1.8,2,0.4,22.6,77.4
+24,Liquor laws,79.2,14.5,4.6,1.5,0.2,14.5,85.5
+25,Drunkenness,76.5,14.7,7.7,1,0.1,24.1,75.9
+26,Disorderly conduct,63.3,32.2,3.5,0.8,0.2,12.9,87.1
+27,Vagrancy,66,30.7,2.1,1.2,0.1,16.1,83.9
+28,All other offenses (except traffic),69.2,27.4,2,1,0.4,16.2,83.8
+29,Suspicion,35,30.7,32.5,1.1,0.7,7.1,92.9
+30,Curfew and loitering law violations,56.3,40.7,1.6,1.1,0.3,21.8,78.2

@@ -1,0 +1,61 @@
+"","Offense_charged","Ethnicity","Rate"
+"1","Murder and nonnegligent manslaughter","Hispanic_or_Latino",20
+"2","Rape","Hispanic_or_Latino",27
+"3","Robbery","Hispanic_or_Latino",21.1
+"4","Aggravated assault","Hispanic_or_Latino",24.4
+"5","Burglary","Hispanic_or_Latino",20.8
+"6","Larceny-theft","Hispanic_or_Latino",14.6
+"7","Motor vehicle theft","Hispanic_or_Latino",26.8
+"8","Arson","Hispanic_or_Latino",16.6
+"9","Violent crime","Hispanic_or_Latino",23.8
+"10","Property crime","Hispanic_or_Latino",16.4
+"11","Other assaults","Hispanic_or_Latino",18.2
+"12","Forgery and counterfeiting","Hispanic_or_Latino",15.9
+"13","Fraud","Hispanic_or_Latino",11.5
+"14","Embezzlement","Hispanic_or_Latino",12
+"15","Stolen property; buying, receiving, possessing","Hispanic_or_Latino",19.7
+"16","Vandalism","Hispanic_or_Latino",18.5
+"17","Weapons; carrying, possessing, etc.","Hispanic_or_Latino",23.4
+"18","Prostitution and commercialized vice","Hispanic_or_Latino",19.9
+"19","Sex offenses (except rape and prostitution)","Hispanic_or_Latino",25.1
+"20","Drug abuse violations","Hispanic_or_Latino",20.3
+"21","Gambling","Hispanic_or_Latino",25.6
+"22","Offenses against the family and children","Hispanic_or_Latino",11.4
+"23","Driving under the influence","Hispanic_or_Latino",22.6
+"24","Liquor laws","Hispanic_or_Latino",14.5
+"25","Drunkenness","Hispanic_or_Latino",24.1
+"26","Disorderly conduct","Hispanic_or_Latino",12.9
+"27","Vagrancy","Hispanic_or_Latino",16.1
+"28","All other offenses (except traffic)","Hispanic_or_Latino",16.2
+"29","Suspicion","Hispanic_or_Latino",7.1
+"30","Curfew and loitering law violations","Hispanic_or_Latino",21.8
+"31","Murder and nonnegligent manslaughter","Not_Hispanic_or_Latino",80
+"32","Rape","Not_Hispanic_or_Latino",73
+"33","Robbery","Not_Hispanic_or_Latino",78.9
+"34","Aggravated assault","Not_Hispanic_or_Latino",75.6
+"35","Burglary","Not_Hispanic_or_Latino",79.2
+"36","Larceny-theft","Not_Hispanic_or_Latino",85.4
+"37","Motor vehicle theft","Not_Hispanic_or_Latino",73.2
+"38","Arson","Not_Hispanic_or_Latino",83.4
+"39","Violent crime","Not_Hispanic_or_Latino",76.2
+"40","Property crime","Not_Hispanic_or_Latino",83.6
+"41","Other assaults","Not_Hispanic_or_Latino",81.8
+"42","Forgery and counterfeiting","Not_Hispanic_or_Latino",84.1
+"43","Fraud","Not_Hispanic_or_Latino",88.5
+"44","Embezzlement","Not_Hispanic_or_Latino",88
+"45","Stolen property; buying, receiving, possessing","Not_Hispanic_or_Latino",80.3
+"46","Vandalism","Not_Hispanic_or_Latino",81.5
+"47","Weapons; carrying, possessing, etc.","Not_Hispanic_or_Latino",76.6
+"48","Prostitution and commercialized vice","Not_Hispanic_or_Latino",80.1
+"49","Sex offenses (except rape and prostitution)","Not_Hispanic_or_Latino",74.9
+"50","Drug abuse violations","Not_Hispanic_or_Latino",79.7
+"51","Gambling","Not_Hispanic_or_Latino",74.4
+"52","Offenses against the family and children","Not_Hispanic_or_Latino",88.6
+"53","Driving under the influence","Not_Hispanic_or_Latino",77.4
+"54","Liquor laws","Not_Hispanic_or_Latino",85.5
+"55","Drunkenness","Not_Hispanic_or_Latino",75.9
+"56","Disorderly conduct","Not_Hispanic_or_Latino",87.1
+"57","Vagrancy","Not_Hispanic_or_Latino",83.9
+"58","All other offenses (except traffic)","Not_Hispanic_or_Latino",83.8
+"59","Suspicion","Not_Hispanic_or_Latino",92.9
+"60","Curfew and loitering law violations","Not_Hispanic_or_Latino",78.2
